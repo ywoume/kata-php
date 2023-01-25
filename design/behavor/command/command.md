@@ -1,0 +1,2 @@
+Design pattern de command:
+
